@@ -1,13 +1,3 @@
-<!--
-  README do perfil GitHub — janseealves/janseealves
-  
-  Antes de publicar:
-  1. Renderize os GIFs: cd remotion && npm run gif:hello && npm run gif:dev-card && npm run gif:code-bridge
-  2. Copie os GIFs para este repo de perfil (ou use raw URLs do not-a-mono)
-  3. Ajuste as URLs das imagens abaixo para o caminho correto
-  4. Remova este bloco de comentário
--->
-
 <div align="center">
 
 ![jansee](assets/dev-card.gif)
