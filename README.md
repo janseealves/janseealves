@@ -14,16 +14,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-![Developer Card](https://raw.githubusercontent.com/janseealves/not-a-mono/main/remotion/out/dev-card.gif)
-
-</div>
-
---- 
-
 <!--
 **janseealves/janseealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
